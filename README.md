@@ -46,8 +46,8 @@ Feel free to experiment with different grid sizes, mirror configurations, and la
 
 ## Preview
 
-![](https://imgur.com/Upuwotr)
-![](https://imgur.com/lcTWrlG)
-![](https://imgur.com/9ch35z5)
-![](https://imgur.com/l82oCZd)
-![](https://imgur.com/GnpTC2w)
+![](https://imgur.com/Upuwotr.png)
+![](https://imgur.com/lcTWrlG.png)
+![](https://imgur.com/9ch35z5.png)
+![](https://imgur.com/l82oCZd.png)
+![](https://imgur.com/GnpTC2w.png)
