@@ -43,3 +43,11 @@ This Python program allows you to create a square grid, place mirrors and a lase
 - Ensure that you have the required dependencies installed before running the program.
 
 Feel free to experiment with different grid sizes, mirror configurations, and laser directions to observe how reflections occur in this simulation.
+
+## Preview
+
+![](https://imgur.com/Upuwotr)
+![](https://imgur.com/lcTWrlG)
+![](https://imgur.com/9ch35z5)
+![](https://imgur.com/l82oCZd)
+![](https://imgur.com/GnpTC2w)
